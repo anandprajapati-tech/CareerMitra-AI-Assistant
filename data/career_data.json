@@ -1,0 +1,85 @@
+{
+  "career_paths": {
+    "Technology & Engineering": {
+      "roles": ["Software Engineer", "DevOps Engineer", "Systems Architect", "Embedded Systems Engineer", "Cloud Engineer"],
+      "avg_salary_inr": 1200000,
+      "demand_growth": "High",
+      "top_skills": ["Python", "Java", "Cloud Computing", "DevOps", "System Design"],
+      "top_companies": ["Google", "Microsoft", "Amazon", "Infosys", "TCS"],
+      "education": ["B.Tech/B.E.", "M.Tech", "BCA/MCA"]
+    },
+    "Data Science & AI/ML": {
+      "roles": ["Data Scientist", "ML Engineer", "AI Researcher", "Data Analyst", "NLP Engineer"],
+      "avg_salary_inr": 1500000,
+      "demand_growth": "Very High",
+      "top_skills": ["Python", "Machine Learning", "SQL", "Statistics", "Deep Learning"],
+      "top_companies": ["Google DeepMind", "Meta AI", "Wipro", "Mu Sigma", "Fractal"],
+      "education": ["B.Tech CS", "M.Sc Statistics", "M.Tech AI/ML"]
+    },
+    "Business & Management": {
+      "roles": ["Business Analyst", "Product Manager", "Operations Manager", "Management Consultant", "Strategy Analyst"],
+      "avg_salary_inr": 1000000,
+      "demand_growth": "Medium",
+      "top_skills": ["Business Analysis", "Project Management", "Leadership", "Financial Modeling", "Negotiation"],
+      "top_companies": ["McKinsey", "Deloitte", "BCG", "Accenture", "KPMG"],
+      "education": ["MBA", "BBA", "B.Com + MBA"]
+    },
+    "Healthcare & Medicine": {
+      "roles": ["Doctor (MBBS/MD)", "Pharmacist", "Biomedical Engineer", "Healthcare Manager", "Clinical Researcher"],
+      "avg_salary_inr": 900000,
+      "demand_growth": "High",
+      "top_skills": ["Clinical Knowledge", "Research", "Patient Care", "Medical Devices", "Data Analysis"],
+      "top_companies": ["Apollo Hospitals", "Fortis", "AIIMS", "Cipla", "Sun Pharma"],
+      "education": ["MBBS", "BAMS", "BPharm", "B.Tech Biomedical"]
+    },
+    "Creative Arts & Design": {
+      "roles": ["UX/UI Designer", "Graphic Designer", "Animator", "Film Director", "Game Designer"],
+      "avg_salary_inr": 700000,
+      "demand_growth": "Medium",
+      "top_skills": ["Figma", "Adobe Suite", "User Research", "3D Modeling", "Storytelling"],
+      "top_companies": ["Adobe", "Zomato", "Flipkart", "Pixar India", "Publicis"],
+      "education": ["B.Des", "BFA", "B.Sc Animation", "NID / NIFT"]
+    },
+    "Finance & Accounting": {
+      "roles": ["Chartered Accountant", "Investment Banker", "Financial Analyst", "Risk Manager", "Actuary"],
+      "avg_salary_inr": 1100000,
+      "demand_growth": "Medium-High",
+      "top_skills": ["Financial Modeling", "Accounting", "Risk Analysis", "Excel", "Taxation"],
+      "top_companies": ["Goldman Sachs", "JP Morgan", "ICICI Bank", "HDFC", "EY"],
+      "education": ["CA", "CFA", "B.Com", "MBA Finance"]
+    },
+    "Education & Research": {
+      "roles": ["Professor", "Research Scientist", "Curriculum Designer", "EdTech Specialist", "Policy Analyst"],
+      "avg_salary_inr": 600000,
+      "demand_growth": "Stable",
+      "top_skills": ["Research", "Teaching", "Statistical Analysis", "Technical Writing", "Critical Thinking"],
+      "top_companies": ["IITs", "IIMs", "BARC", "ISRO", "BYJU's"],
+      "education": ["M.Sc/M.Tech + PhD", "M.Ed", "B.Ed"]
+    },
+    "Sales & Marketing": {
+      "roles": ["Digital Marketing Manager", "Brand Manager", "Sales Manager", "Growth Hacker", "SEO Specialist"],
+      "avg_salary_inr": 800000,
+      "demand_growth": "High",
+      "top_skills": ["Digital Marketing", "SEO/SEM", "CRM", "Data Analytics", "Communication"],
+      "top_companies": ["HUL", "P&G", "Zomato", "Swiggy", "Amazon"],
+      "education": ["MBA Marketing", "BBA", "B.Com", "Digital Marketing Certification"]
+    }
+  },
+  "learning_resources": {
+    "Python": ["Coursera - Python for Everybody", "freeCodeCamp", "LeetCode", "Real Python"],
+    "Machine Learning": ["Andrew Ng - ML Specialization (Coursera)", "fast.ai", "Kaggle Learn"],
+    "Data Analysis": ["Google Data Analytics Certificate", "DataCamp", "Mode Analytics"],
+    "Cloud Computing": ["AWS Cloud Practitioner", "Google Cloud Fundamentals", "Microsoft Azure AZ-900"],
+    "Business Analysis": ["IIBA Certification", "Coursera Business Analysis", "PMI-PBA"],
+    "Leadership": ["Harvard Leadership Courses", "LinkedIn Learning", "Coursera Leadership Specialization"],
+    "UX Design": ["Google UX Design Certificate (Coursera)", "Nielsen Norman Group", "Interaction Design Foundation"],
+    "Financial Modeling": ["CFI Financial Modeling", "Wall Street Prep", "Coursera Finance Specialization"]
+  },
+  "certifications": {
+    "Technology": ["AWS Certified Solutions Architect", "Google Professional Cloud Engineer", "Microsoft Azure Administrator", "Certified Kubernetes Administrator"],
+    "Data Science": ["Google Data Analytics", "IBM Data Science Professional", "Databricks Certified Associate", "TensorFlow Developer Certificate"],
+    "Project Management": ["PMP", "PRINCE2", "Agile/Scrum Master", "CAPM"],
+    "Finance": ["CFA Level 1-3", "FRM", "CFP", "CPA"],
+    "Design": ["Google UX Design Certificate", "Adobe Certified Expert", "Figma Certification"]
+  }
+}

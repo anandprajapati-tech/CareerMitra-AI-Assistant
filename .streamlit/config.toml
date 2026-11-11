@@ -1,0 +1,21 @@
+[global]
+# Disable the Streamlit first-run welcome/demo page
+showWarningOnDirectExecution = false
+
+[browser]
+# Prevent Streamlit from asking for an email address on first run
+gatherUsageStats = false
+
+[server]
+headless = true
+port = 8501
+enableCORS = true
+enableXsrfProtection = true
+
+[theme]
+base = "dark"
+primaryColor = "#4F46E5"
+backgroundColor = "#0F172A"
+secondaryBackgroundColor = "#1E293B"
+textColor = "#F1F5F9"
+font = "sans serif"

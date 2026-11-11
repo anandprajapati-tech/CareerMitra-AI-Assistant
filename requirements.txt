@@ -1,0 +1,34 @@
+# CareerMitra AI – Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# ── Web UI ────────────────────────────────────────────────────────────────────
+streamlit>=1.32.0
+
+# ── Data & Visualisation ──────────────────────────────────────────────────────
+pandas>=2.1.0
+numpy>=1.26.0
+plotly>=5.18.0
+
+# ── IBM watsonx.ai (Granite LLM) ─────────────────────────────────────────────
+ibm-watsonx-ai>=1.0.0
+
+# ── Environment & Config ──────────────────────────────────────────────────────
+python-dotenv>=1.0.0
+
+# ── PDF Report Generation ─────────────────────────────────────────────────────
+fpdf2>=2.7.9
+
+# ── PowerPoint Presentation ───────────────────────────────────────────────────
+python-pptx>=0.6.23
+
+# ── Resume Parsing: PDF extraction ────────────────────────────────────────────
+pymupdf>=1.23.0        # primary PDF text extractor  (import as fitz)
+pdfplumber>=0.10.0     # fallback PDF text extractor
+
+# ── Resume Parsing: Image OCR (optional) ──────────────────────────────────────
+# pytesseract>=0.3.10  # uncomment after installing Tesseract binary
+# See: https://github.com/UB-Mannheim/tesseract/wiki
+
+# ── Utilities ─────────────────────────────────────────────────────────────────
+requests>=2.31.0
+Pillow>=10.2.0         # image processing + OCR preprocessing
